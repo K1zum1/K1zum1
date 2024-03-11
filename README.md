@@ -1,9 +1,8 @@
-<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kizum1&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="220px" alt="Most used languages"></a>
+<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1zum1&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="220px" alt="Most used languages"></a>
 
 ##### 👋 Hi, I’m Jay, I am a second year computer engineering major.
-##### 👀 I’m interested in cybersecurity, and web development.
+##### 👀 I’m interested in cybersecurity, and digital forensics
 ##### 🌱 I’m currently learning Python, React and Cybersecurity.
-##### 🤎 Fun fact: Here is my old account [Kizum1](https://github.com/Kizum1)
 
 
 ### Some things I like...
