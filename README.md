@@ -19,5 +19,5 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://media.giphy.com/media/7rdCcxQDPuMgW61B1p/giphy.gif?cid=790b761199nl78j9b36mj4w9w6l89j08i7d276tpxhg5kkkx&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img height="300" src="https://media.giphy.com/media/7rdCcxQDPuMgW61B1p/giphy.gif?cid=790b761199nl78j9b36mj4w9w6l89j08i7d276tpxhg5kkkx&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
