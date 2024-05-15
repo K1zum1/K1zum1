@@ -1,7 +1,8 @@
 
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1zum1&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="200px" alt="Most used languages"></a>
 
-##### 👋 Hello, Im Jay. A junior studying Electrical Engineering & Computer Science
+##### 👋 Hello, Im Jay. Im from Canada, and currently studying at UC Berkeley
+####  🧐 I am junior student studying Electrical Engineering & Computer Science
 ##### 👀 I’m interested in cybersecurity, data security, and digital forensics
 ##### 🌱 I’m currently learning Python, C++, and Cybersecurity
 
