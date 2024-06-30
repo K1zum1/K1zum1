@@ -1,10 +1,10 @@
 
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1zum1&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="200px" alt="Most used languages"></a>
 
-##### 👋 Hello, Im Jay. Im from Canada, and currently studying at UC Berkeley
-#####  🧐 I am junior student studying Electrical Engineering & Computer Science
-##### 👀 I’m interested in cybersecurity, data security, and digital forensics
-##### 🌱 I’m currently learning Python, C++, and Cybersecurity
+##### 👋 Hello, Im Jay. I'm a junior at UC Berkeley studying Electrical Engineering & Computer Science
+##### 🧐 Currently internning at the National Center for Supercomputing Applications in Cybersecurity
+##### 👀 I’m interested in cybersecurity, data security/analysis, and cheat engines in video games
+
 
 
 ### Some things I like...
@@ -16,8 +16,9 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
 </div>
 
-###
-
 <div align="center">
-  <img height="300" src="https://media.giphy.com/media/7rdCcxQDPuMgW61B1p/giphy.gif?cid=790b761199nl78j9b36mj4w9w6l89j08i7d276tpxhg5kkkx&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img src="https://github.com/K1zum1/K1zum1/assets/158886560/e887adcf-f22e-4792-adcd-c3700480e124">
 </div>
+
+
+
