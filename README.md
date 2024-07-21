@@ -22,8 +22,6 @@
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" height="40" alt="linux logo"  />
 </div>
 
-<div align="center">
-  <img src="https://github.com/K1zum1/K1zum1/assets/158886560/3d84ffb5-fd90-4010-ba62-8b5d2e836cd1">
-</div>
+
 
 
