@@ -2,16 +2,14 @@
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1zum1&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="200px" alt="Most used languages"></a>
 
 #### 👋 Hello, Im Jay. I'm a junior at UC Berkeley studying Electrical Engineering & Computer Science
-#### 👀 The courses that I am taking for Fall 2024
+#### 👀 The courses that I am taking for Spring 2024
 
-- *CS 70. Discrete Mathematics and Probability Theory*
-<!-- - ***CS 161. Computer Security***
-- ***CS 162. Operating Systems and System Programming***
-- ***CS 169A. Introduction to Software Engineering***
-- ***CS 171. Cryptography***
-- ***CS 261. Security in Computer Systems*** -->
-- *EECS 16A. Designing Information Devices and Systems I*
-<!-- ***EECS 16B. Designing Information Devices and Systems I*** -->
+
+ - ***CS 161. Computer Security***
+   
+ - ***CS 168. Introduction to the Internet: Architecture and Protocols***
+   
+ - ***EECS 16B. Introduction to Circuits & Devices*** 
 
 
 
