@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" height="40" alt="bash logo"  />
 </div>
  
-#### 💕 Yes I am obsessed with IU, check out the latest [Palette episode](https://www.youtube.com/@dlwlrma/videos)
+#### 💕 Check out the IU's latest [Palette episode](https://www.youtube.com/@dlwlrma/videos)
 
 
 <p align="center">
