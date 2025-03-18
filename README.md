@@ -1,8 +1,8 @@
 
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1zum1&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="200px" alt="Most used languages"></a>
 
-#### 👋 Hello, Im Jay.
-#### 📚 The courses that I am taking right now
+####  Hello, Im Jay.
+####  The courses that I am taking right now
 
  - ***CS 161. Computer Security***
    
