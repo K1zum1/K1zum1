@@ -26,9 +26,6 @@
 #### 💕 Check out the IU's latest [Palette episode](https://www.youtube.com/@dlwlrma/videos)
 
 
-<p align="center">
-  <img src="iu.png" alt="IU Season's Greetings" style="max-width: 100%; height: auto;">
-</p>
 
 
 
