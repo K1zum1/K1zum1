@@ -2,13 +2,13 @@
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1zum1&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="200px" alt="Most used languages"></a>
 
 ####  Hello, Im Jay.
-####  The courses that I am taking right now
+####  The courses that I will do in Fall 2025 are:
 
- - ***CS 161. Computer Security***
+ - ***INFO 289. Public Interest Cybersecurity***
    
- - ***CS 168. Introduction to the Internet: Architecture and Protocols***
+ - ***CS 164: Programming Languages and Compilers***
    
- - ***EECS 16B. Introduction to Circuits & Devices***
+ - ***CS 188: Introduction to Artificial Intelligence***
 
 ### Some other things I think are cool...
 <div align="left">
