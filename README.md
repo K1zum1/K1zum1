@@ -4,7 +4,7 @@
 ####  Hello, Im Jay.
 ####  The courses that I will do in Fall 2025 are:
 
- - ***INFO 289. Public Interest Cybersecurity***
+ - ***INFO 289. Cybersecurity Consulting Practicum***
    
  - ***CS 164: Programming Languages and Compilers***
    
