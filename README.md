@@ -2,13 +2,15 @@
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1zum1&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="200px" alt="Most used languages"></a>
 
 ####  Hello, Im Jay.
-####  The courses that I will do in Fall 2025 are:
+####  The relevant courses that I am currently doing are:
+
+ - ***CS 188: Introduction to Artificial Intelligence***
 
  - ***INFO 289. Cybersecurity Consulting Practicum***
-   
- - ***CS 164: Programming Languages and Compilers***
-   
- - ***CS 188: Introduction to Artificial Intelligence***
+
+ - ***UGBA 179: 	International Consulting for Small and Medium-Sized Enterprises***
+
+ - ***STAT 198: Poker Theory and Fundamentals***
 
 ### Some other things I think are cool...
 <div align="left">
