@@ -4,10 +4,9 @@
 ####  Hello, Im Jay.
 ####  The relevant courses that I am currently doing are:
 
- - **CS 189: 	Introduction to Machine Learning**
+ - **CS 160: User Interface Design and Development**
  - **CS 188: Introduction to Artificial Intelligence**
- - **CS 195: Social Implications of Computer Technology**
- - **INFO 289. Cybersecurity Consulting Practicum**
+ - **INFO 289. Public Interest Cybersecurity**
  - **STAT 198: Poker Theory and Fundamentals**
 
 ### Some other things I think are cool...
