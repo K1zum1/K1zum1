@@ -1,30 +1,25 @@
+<!-- <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1zum1&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="200px" alt="Most used languages"></a> -->
 
-<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1zum1&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="200px" alt="Most used languages"></a>
+#### Hello, I'm Jay – a Canadian who may or may not code from time to time.
 
-####  Hello, Im Jay.
-####  The relevant courses that I am currently doing are:
+#### Currently taking:
 
- - **CS 188: Introduction to Artificial Intelligence**
- - **INFO 289. Public Interest Cybersecurity**
+- **CS 188: Introduction to Artificial Intelligence** — exploring how smart machines learn, think, and decide.
+- **INFO 289: Public Interest Cybersecurity** — protecting what matters most in the digital world.
 
+#### Career aspirations? To become a cybersecurity consultant or project manager.
 
-### Some other things I think are cool...
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
-  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height="40" alt="linux logo"  />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo" />
-  <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="40" alt="bash logo"  />
+---
 
-</div>
- 
-#### 💕 Check out the IU's latest [Palette episode](https://www.youtube.com/@dlwlrma/videos)
+**I love to listen to IU, go watch her latest [Palette episode!](https://www.youtube.com/@dlwlrma/videos)**
 
+**My top 5 IU songs**
 
-
+1. eight(에잇) (Prod.&Feat. SUGA of BTS)
+2. Troll (Feat. DEAN)
+3. October 4th (10월 4일)
+4. Ah puh
+5. Love wins all
 
 
-
-
-
-
+![IU](iu.png)
