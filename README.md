@@ -15,11 +15,11 @@
 
 **My top 5 IU songs**
 
-1. eight(에잇) (Prod.&Feat. SUGA of BTS)
-2. Troll (Feat. DEAN)
+1. eight (에잇) (Prod.&Feat. SUGA of BTS)
+2. Troll (돌림노래) (Feat. DEAN)
 3. October 4th (10월 4일)
-4. Ah puh
-5. Love wins all
+4. Palette (팔레트) (Feat. G-DRAGON)
+5. LILAC (라일락)
 
 
 ![IU](iu.png)
