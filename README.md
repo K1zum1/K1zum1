@@ -21,5 +21,3 @@
 4. Palette (팔레트) (Feat. G-DRAGON)
 5. LILAC (라일락)
 
-
-![IU](iu.png)
