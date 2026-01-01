@@ -4,8 +4,10 @@
 
 #### Currently taking:
 
-- **CS 188: Introduction to Artificial Intelligence** — exploring how smart machines learn, think, and decide.
-- **INFO 289: Public Interest Cybersecurity** — protecting what matters most in the digital world.
+-**COMPSCI 186: Introduction to Database Systems** — learning how databases store, query, and manage data at scale.
+
+-**ELENG 122: Introduction to Communication Networks** — studying how the Internet and modern networks move data reliably and efficiently.
+
 
 #### Career aspirations? To become a project or product manager in cybersecurity
 
