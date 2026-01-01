@@ -4,9 +4,9 @@
 
 #### Currently taking:
 
--**COMPSCI 186: Introduction to Database Systems** — learning how databases store, query, and manage data at scale.
+- **COMPSCI 186: Introduction to Database Systems** — learning how databases store, query, and manage data at scale.
 
--**ELENG 122: Introduction to Communication Networks** — studying how the Internet and modern networks move data reliably and efficiently.
+- **ELENG 122: Introduction to Communication Networks** — studying how the Internet and modern networks move data reliably and efficiently.
 
 
 #### Career aspirations? To become a project or product manager in cybersecurity
