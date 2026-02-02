@@ -4,7 +4,7 @@
 
 #### Currently taking:
 
-- **COMPSCI 186: Introduction to Database Systems** — learning how databases store, query, and manage data at scale.
+- **COMPSCI 261: Computer Security — a graduate survey of modern computer security topics like protection, access control, firewalls, and secure coding.
 
 - **ELENG 122: Introduction to Communication Networks** — studying how the Internet and modern networks move data reliably and efficiently.
 
