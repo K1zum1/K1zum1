@@ -9,7 +9,7 @@
 - **ELENG 122: Introduction to Communication Networks** — studying how the Internet and modern networks move data reliably and efficiently.
 
 
-#### Career aspirations? To become a project or product manager in cybersecurity
+#### Career aspirations? To become a project or product manager in cybersecurity, but I guess im okay with staying an engineer
 
 ---
 
