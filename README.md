@@ -4,9 +4,8 @@
 
 #### Currently taking:
 
-- **COMPSCI 261: Security in Computer Systems** — a graduate survey of modern computer security topics like protection, access control, firewalls, and secure coding.
-
-- **ELENG 122: Introduction to Communication Networks** — studying how the Internet and modern networks move data reliably and efficiently.
+- **COMPSCI 261: Security in Computer Systems** 
+- **ELENG 122: Introduction to Communication Networks**
 
 
 #### Career aspirations? To become a project or product manager in cybersecurity, but I guess im okay with staying an engineer
