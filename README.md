@@ -4,11 +4,8 @@
 
 #### Currently taking:
 
-- **COMPSCI 261: Security in Computer Systems** 
-- **ELENG 122: Introduction to Communication Networks**
-
-
-#### Career aspirations? To become a project or product manager in cybersecurity, but I guess im okay with staying an engineer
+- **COMPSCI 268: Computer Networks** 
+- **COMPSCI 171: Cryptography**
 
 ---
 
